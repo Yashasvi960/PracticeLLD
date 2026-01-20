@@ -1,5 +1,6 @@
 package com.example.practiceLLD.PaymentSystem;
 
-abstract class BasicFunctionalities {
+public enum PaymentType {
 
+    CARD, UPI, WALLET
 }
